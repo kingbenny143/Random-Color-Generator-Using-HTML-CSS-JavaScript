@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
+
+h1{
+    height: 4rem;
+    background-color: black;
+    color: white;
+    line-height: 4rem;
+}
+
+#color{
+    height: 4rem;
+    width: 20rem;
+    border: 5px solid black;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 4rem;
+}
+
+#btn{
+    height: 4rem;
+    width: 20rem;
+    margin-top: 20rem;
+    border: 5px solid black;
+    background-color: rgb(17, 33, 62);
+    font-size: 40px;
+}
